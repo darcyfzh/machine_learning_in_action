@@ -1,0 +1,1 @@
+To implementing algorithms introduced in the book "Machine learning in action"
